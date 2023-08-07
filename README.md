@@ -95,6 +95,7 @@
 </body>
 </html>
 
+<style>
 
 *
 {
@@ -215,3 +216,4 @@ ul li:nth-child(5):hover span
 {
     background: #e4405f;
 }
+</style>
