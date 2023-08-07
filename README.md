@@ -23,75 +23,20 @@
 
 ## Connect with Me
 
-[![Instagram](images/instagram.png)](https://www.instagram.com/your_username/)
-[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/your_username/)
-[![Facebook](images/medium.png)](https://www.facebook.com/your_username/)
-[![WhatsApp](images/medium.png)](https://wa.me/your_phonenumber/)
+## Connect with Me
+
+[<img align="left" alt="Instagram" height="70px" width="70px" src="images/instagram.png" />](https://www.instagram.com/your_username/)
+Follow me on Instagram!
+
+[<img align="left" alt="LinkedIn" height="70px" width="70px" src="images/linkedin.png" />](https://www.linkedin.com/in/your_username/)
+Connect with me on LinkedIn!
+
+[<img align="left" alt="Facebook" height="70px" width="70px" src="images/facebook.png" />](https://www.facebook.com/your_username/)
+Let's be friends on Facebook!
+
+[<img align="left" alt="WhatsApp" height="70px" width="70px" src="images/whatsapp.png" />](https://wa.me/your_phonenumber/)
+Reach out to me on WhatsApp!
 
 
 
 [![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/951c4a8ced.js" crossorigin="anonymous"></script>
-    <title>CSS 3D Isometric Social Media Icon Hover Effects  Fontawesome Icons</title>
-    <link rel="stylesheet" href="/style.css">
-</head>
-<body>
-    <ul>
-        <li>
-            <a href="#" >
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span class="fa fa-facebook"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span class="fa fa-twitter"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span></span>   
-                <span></span>
-                <span></span>
-                <span></span>
-                <span class="fa fa-whatsapp"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span class="fa fa-linkedin"></span>
-            </a>
-        </li>
-        <li>
-            <a href="#">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-                <span class="fa fa-instagram"></span>
-            </a>
-        </li>
-    </ul>
-</body>
-</html>
-
