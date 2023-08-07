@@ -19,4 +19,4 @@
 - 📫 How to reach me *https://wa.me/919946803234*
 
 - ⚡ Fun fact *I THINK IAM VERY POSITIVE*
-<img src=https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png >
+[![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
