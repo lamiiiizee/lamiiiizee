@@ -19,4 +19,15 @@
 - 📫 How to reach me *https://wa.me/919946803234*
 
 - ⚡ Fun fact *I THINK IAM VERY POSITIVE*
+
+
+## Connect with Me
+
+[![Instagram](https://i.ibb.co/xyz123/instagram-icon.png)](https://www.instagram.com/your_username/)
+[![LinkedIn](https://i.ibb.co/xyz123/linkedin-icon.png)](https://www.linkedin.com/in/your_username/)
+[![Facebook](https://i.ibb.co/xyz123/facebook-icon.png)](https://www.facebook.com/your_username/)
+[![WhatsApp](https://i.ibb.co/xyz123/whatsapp-icon.png)](https://wa.me/your_phonenumber/)
+
+
+
 [![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
