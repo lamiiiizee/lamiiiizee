@@ -25,9 +25,11 @@
 
 ## Connect with Me
 
-[<img align="left" alt="Instagram" height="70px" width="70px" src="images/instagram.png" />](https://www.instagram.com/your_username/)
-[<img align="left" alt="LinkedIn" height="70px" width="70px" src="images/linkedin.png" />](https://www.linkedin.com/in/your_username/)
-[<img align="left" alt="Facebook" height="70px" width="70px" src="images/facebook.png" />](https://www.facebook.com/your_username/)
-[<img align="left" alt="WhatsApp" height="70px" width="70px" src="images/whatsapp.png" />](https://wa.me/your_phonenumber/)
+
+[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/your_username/)
+[<img align="left" alt="LinkedIn" height="40px" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/your_username/)
+[<img align="left" alt="Facebook" height="40px" width="40px" src="images/facebook.png" />](https://www.facebook.com/your_username/)
+[<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/whatsapp.png" />](https://wa.me/your_phonenumber/)
+
 
 [![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
