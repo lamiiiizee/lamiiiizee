@@ -23,10 +23,10 @@
 
 ## Connect with Me
 
-[![Instagram](https://i.ibb.co/xyz123/instagram-icon.png)](https://www.instagram.com/your_username/)
-[![LinkedIn](https://i.ibb.co/xyz123/linkedin-icon.png)](https://www.linkedin.com/in/your_username/)
-[![Facebook](https://i.ibb.co/xyz123/facebook-icon.png)](https://www.facebook.com/your_username/)
-[![WhatsApp](https://i.ibb.co/xyz123/whatsapp-icon.png)](https://wa.me/your_phonenumber/)
+[![Instagram](images/instagram.png)](https://www.instagram.com/your_username/)
+[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/your_username/)
+[![Facebook](images/medium.png)](https://www.facebook.com/your_username/)
+[![WhatsApp](images/medium.png)](https://wa.me/your_phonenumber/)
 
 
 
