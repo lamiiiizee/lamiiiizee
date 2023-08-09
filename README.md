@@ -35,3 +35,50 @@
 
 
 [![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
+
+
+
+uint64_t
+riscv_rtclock_read_cnt(void)
+{
+#if __riscv_xlen == 32
+  // Atomic read. The loop is taken once in most cases. Only when the
+  // value carries to the high word, two loops are performed.
+  while (true)
+    {
+      uint32_t hi = rtclock.cnth;
+      uint32_t lo = rtclock.cntl;
+      if (hi == rtclock.cnth)
+        {
+          return ((uint64_t) hi << 32) | lo;
+        }
+    }
+#else
+  return rtclock.cnt;
+#endif
+}
+
+uint64_t
+riscv_rtclock_read_cmp(void)
+{
+#if __riscv_xlen == 32
+  return ((uint64_t) hcb.rtclockcmph << 32) | hcb.rtclockcmpl;
+#else
+  return dcb.rtclock.cmp;
+#endif
+}
+
+void
+riscv_rtclock_write_cmp(uint64_t value)
+{
+#if __riscv_xlen == 32
+  // Write low as max; no smaller than old value.
+  hcb.rtclockcmpl = (uint32_t) UINT_MAX;
+  // Write high; no smaller than old value.
+  hcb.rtclockcmph = ((uint32_t) (value >> 32));
+  // Write low as new value.
+  hcb.rtclockcmpl = ((uint32_t) value);
+#else
+  hcb.rtclockcmp = value;
+#endif
+}
