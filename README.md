@@ -36,4 +36,3 @@
 
 [![Image Description](https://i.ibb.co/qWjRk4x/Screenshot-from-2023-08-07-12-25-01.png)](https://muhammedlamees.great-site.net/)
 
-![GitHub Logo](https://github.com/lamiiiizee/lamiiiizee/raw/main/images/whatsapp.png)}
