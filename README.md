@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on [lamiiz] (https://github.com/lamiiz)
+- 🔭 I’m currently working on telora automation
 
 - 💬 Ask me about *ME*
 
@@ -101,10 +101,3 @@
 
 
 [![Video Thumbnail](https://github.com/lamiiiizee/lamiiiizee/blob/main/images/Screencast%20from%202023-09-18%2009-57-41.webm)](https://muhammedlamees.great-site.net/)
-
-
-<!-- Auto-Play Video -->
-<video autoplay muted loop>
-  <source src="https://muhammedlamees.great-site.net/" type="video/webm">
-  Your browser does not support the video tag.
-</video>
