@@ -7,7 +7,7 @@
 ## ![Visitor Count](https://profile-counter.glitch.me/typegrapher/count.svg)
 
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm lamiiz&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamiiz&nbsp;
 
 
 
