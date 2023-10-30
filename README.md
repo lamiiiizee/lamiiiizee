@@ -21,14 +21,7 @@
 - ⚡ Fun fact *I THINK IAM VERY POSITIVE*
 
 
-<h3 align="left">Contact Me..🤙</h3>
 
-
-[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/_lamii.__x/)
-[<img align="left" alt="LinkedIn" height="40px" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/muhammed-lamees-mv-4970ba260/)
-[<img align="left" alt="Facebook" height="40px" width="40px" src="images/facebook.png" />](https://www.facebook.com/profile.php?id=100017169841207)
-[<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/whatsapp.png" />](https://api.whatsapp.com/send/?phone=919946803234&text&type=phone_number&app_absent=0)
-[<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/slack.png" />](https://join.slack.com/t/newworkspace-bjx3350/shared_invite/zt-23hi4t3ir-ziOYb_Jr9pzqls0E2cP0vw)
 
 <br clear="left">
 
@@ -81,17 +74,40 @@
 
 ###
 
+
+<br clear="left">
+
+<h3 align="left">Contact Me..🤙</h3>
+
+
+[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/_lamii.__x/)
+[<img align="left" alt="LinkedIn" height="40px" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/muhammed-lamees-mv-4970ba260/)
+[<img align="left" alt="Facebook" height="40px" width="40px" src="images/facebook.png" />](https://www.facebook.com/profile.php?id=100017169841207)
+[<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/whatsapp.png" />](https://api.whatsapp.com/send/?phone=919946803234&text&type=phone_number&app_absent=0)
+[<img align="left" alt="gmail" height="40px" width="40px" src="images/gmail.png" />](mailto:muhammedlameesmv@gmail.com)
+
+
+<!--
 <h3 align="left">Contact Me..🤙</h3>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
 
-###
+<!--<div align="left">
+  <a href="https://www.instagram.com/_lamii.__x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="mailto:muhammedlameesmv@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-lamees-mv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://wa.me/919946803234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100017169841207" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+</div>-->
+
