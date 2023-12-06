@@ -1,13 +1,13 @@
 
 
-### Hi i'm lamiiz 👋
+### Hi i'm lamees 👋
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamiiz;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
 #### TOTAL profile VIEWSERS📍
 ## ![Visitor Count](https://profile-counter.glitch.me/typegrapher/count.svg)
 
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamiiz&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamees&nbsp;
 
 
 
