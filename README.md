@@ -3,11 +3,14 @@
 ### Hi i'm lamees 👋
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+
 #### TOTAL profile VIEWSERS📍
 ## ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
 
 
-# Hi ,<img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"> I'm lamees&nbsp;
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamees
+
+&nbsp;
 
 
 
@@ -90,6 +93,10 @@
 [<img align="left" alt="gmail" height="40px" width="40px" src="images/gmail.png" />](mailto:muhammedlameesmv@gmail.com)
 
 <br clear="left">
+
+
+###
+&nbsp;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sb-4Ma6DE5H&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
