@@ -4,19 +4,19 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
 #### TOTAL profile VIEWSERS📍
-## ![Visitor Count](https://profile-counter.glitch.me/typegrapher/count.svg)
+## ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
 
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamees&nbsp;
+# Hi ,<img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"> I'm lamees&nbsp;
 
 
 
 
-- 🔭 I’m currently working on telora automation
+- 🔭 I’m currently working on Telora Automation Pvt. Ltd
 
-- 💬 Ask me about *ME*
+- 💬 Ask me about *ME* *https://wa.me/919946803234*
 
-- 📫 How to reach me *https://wa.me/919946803234*
+- 📫 How to reach me 
 
 - ⚡ Fun fact *I THINK IAM VERY POSITIVE*
 
@@ -76,6 +76,9 @@
 
 
 <br clear="left">
+
+###
+
 
 <h3 align="left">Contact Me..🤙</h3>
 
