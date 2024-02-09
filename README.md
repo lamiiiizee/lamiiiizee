@@ -86,7 +86,7 @@
 <h3 align="left">Contact Me..🤙</h3>
 
 
-[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/_lamii.__x/)
+[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/lamiiiizee/)
 [<img align="left" alt="LinkedIn" height="40px" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/muhammed-lamees-mv-4970ba260/)
 [<img align="left" alt="Facebook" height="40px" width="40px" src="images/facebook.png" />](https://www.facebook.com/profile.php?id=100017169841207)
 [<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/whatsapp.png" />](https://api.whatsapp.com/send/?phone=919946803234&text&type=phone_number&app_absent=0)
