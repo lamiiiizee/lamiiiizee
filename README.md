@@ -1,21 +1,20 @@
 
-
-### Hi i'm lamees 👋
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
-
-#### TOTAL profile VIEWSERS📍
-## ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
-
-
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamees
 
 &nbsp;
 
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+
+#### TOTAL profile VIEWSERS📍
+![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
+## <small align="left"> <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=Profile%20views&color=0e75b6&style=flat" alt="lamiiiizee" /> </small>
 
 
-- 🔭 I’m currently working on Telora Automation Pvt. Ltd
+
+
+
+- 🔭 I’m currently working on [Telora Automation Pvt. Ltd.](https://telora.in/)
 
 - 💬 Ask me about *ME* *https://wa.me/919946803234*
 
@@ -64,8 +63,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
@@ -94,6 +91,10 @@
 
 <br clear="left">
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/lameess"> <img align="left"
+            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+            alt="lamiiiizee" /></a></p><br><br>
 
 ###
 &nbsp;
