@@ -1,10 +1,9 @@
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm lamees
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm M.lamees
 
 &nbsp;
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Hi...++im+lamees;Welcome+to+my+profile;full+stack+developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=635DF7&lines=Hi...++im+muhammed+lamees;Software+developer;Problem+Solver;Continuous+Learner;Creative+Developer)](https://git.io/typing-svg)
 
 #### TOTAL profile VIEWSERS📍
 ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
@@ -101,8 +100,10 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamiiiizee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamiiiizee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lamiiiizee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maagnitude&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    
+    <!-- //TODO: most used program languages "Maagnitude" example --->
 </div>
 
 <br clear="left">
