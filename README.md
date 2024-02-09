@@ -8,7 +8,7 @@
 
 #### TOTAL profile VIEWSERS📍
 ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
-## <small align="left"> <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=Profile%20views&color=0e75b6&style=flat" alt="lamiiiizee" /> </small>
+## <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=👀&color=brightgreen&style=plastic" alt="lamiiiizee" />
 
 
 
