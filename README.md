@@ -8,8 +8,8 @@
 
 #### TOTAL profile VIEWSERS📍
 ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
-<!-- <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=👀&color=brightgreen&style=plastic" alt="lamiiiizee" /> -->
-## <img src="https://img.shields.io/static/v1?label=%F0%9F%91%80&message=17781&color=brightgreen&style=plastic" alt="lamiiiizee" />
+<!-- <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=👀&color=brightgreen&style=plastic" alt="lamiiiizee" /> 
+## <img src="https://img.shields.io/static/v1?label=%F0%9F%91%80&message=17781&color=brightgreen&style=plastic" alt="lamiiiizee" /> -->
 
 
 
